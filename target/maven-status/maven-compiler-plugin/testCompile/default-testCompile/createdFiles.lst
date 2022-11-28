@@ -1,0 +1,6 @@
+utilities\Config.class
+pages\pageObjects.class
+utilities\DataUtil.class
+utilities\DriverManager.class
+utilities\PropertyReader.class
+utilities\BrowserNode.class

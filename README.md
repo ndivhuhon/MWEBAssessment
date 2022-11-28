@@ -16,4 +16,5 @@
 * This will install all the dependencies and plugins
 
 ### Executing program
+* This project will run on firefox as I am using firefoxdriver
 * Run the project by running the testMWEB.java class, this will run the project as a testNG test
